@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Kyran Butler - a soon-to-be graduate from CU Boulder currently studying Computer Science! I'm super into React, but I've touched on tons of languages. Glad to meet you!
+
 <!--
 **KyButler/KyButler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
